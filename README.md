@@ -4,29 +4,20 @@ This Excel project was built to simulate a real-world business analyst task: inh
 
 What was done:
 
-1. Cleaning Data
+1. Identified and resolved data quality issues in the raw dataset, including: Empty rows and blank fields; Missing service and retirement dates; Incorrect data (e.g. malformed VIN numbers); Formatting inconsistencies
 
-Identified and resolved data quality issues in the raw dataset, including:
 
-Empty rows and blank fields
+2. Solutions Applied: 
 
-Missing service and retirement dates
+Built a clean, analysis-ready dataset: 
 
-Incorrect data (e.g. malformed VIN numbers)
+Flaged markers to identify retired vs. active vehicles
 
-Formatting inconsistencies (trailing spaces in vehicle make names, date serial numbers)
+Assumptions to handle missing date values.
 
-2. Solutions Applied
+Applied formulas for calculated columns (usage life, adjusted dates, city name lookup)
 
-Built a clean, analysis-ready dataset by applying:
-
-Flag markers to identify retired vs. active vehicles
-
-Assumptions to handle missing date values
-
-Formulas for calculated columns (usage life, adjusted dates, city name lookup)
-
-Error-checking to validate data integrity across all records
+Checked for errors to validate data integrity across all records
 
 3. Insights & Visualization
 
