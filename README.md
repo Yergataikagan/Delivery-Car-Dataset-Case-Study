@@ -7,17 +7,8 @@ What was done:
 1. Identified and resolved data quality issues in the raw dataset, including: Empty rows and blank fields; Missing service and retirement dates; Incorrect data (e.g. malformed VIN numbers); Formatting inconsistencies
 
 
-2. Solutions Applied: 
+2. Solutions Applied: Built a clean, analysis-ready dataset; Flaged markers to identify retired vs. active vehicles; Assumptions to handle missing date values; Checked for errors to validate data integrity across all records;
 
-Built a clean, analysis-ready dataset: 
-
-Flaged markers to identify retired vs. active vehicles
-
-Assumptions to handle missing date values.
-
-Applied formulas for calculated columns (usage life, adjusted dates, city name lookup)
-
-Checked for errors to validate data integrity across all records
 
 3. Insights & Visualization
 
