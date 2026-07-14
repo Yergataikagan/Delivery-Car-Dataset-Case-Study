@@ -10,9 +10,7 @@ What was done:
 2. Solutions Applied: Built a clean, analysis-ready dataset; Flaged markers to identify retired vs. active vehicles; Assumptions to handle missing date values; Checked for errors to validate data integrity across all records;
 
 
-3. Insights & Visualization
-
-Built pivot tables and charts to surface key business insights across 4 cities (Los Angeles, New York, San Francisco, Dallas) and 3 vehicle makes (Ford, Chevrolet, RAM).
+3. Insights & Visualization: Built pivot tables and charts to surface key business insights across 4 cities (Los Angeles, New York, San Francisco, Dallas) and 3 vehicle makes (Ford, Chevrolet, RAM).
 
 
 2.**Key Insights**
